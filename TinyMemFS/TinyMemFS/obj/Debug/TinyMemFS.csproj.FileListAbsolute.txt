@@ -1,0 +1,66 @@
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe.config
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form1.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Properties.Resources.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.pdb
+C:\Users\noyga\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe.config
+C:\Users\noyga\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe
+C:\Users\noyga\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.pdb
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form1.resources
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Properties.Resources.resources
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.exe
+C:\Users\noyga\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.pdb
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form1.resources
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Properties.Resources.resources
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.exe
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.pdb
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe.config
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe.config
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form1.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Properties.Resources.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form2.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form3.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\315811133_207216078\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form4.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form2.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form3.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form4.resources
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form2.resources
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form3.resources
+C:\Users\Eden\Desktop\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form4.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe.config
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\bin\Debug\TinyMemFS.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form1.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form2.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form3.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Form4.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.Properties.Resources.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\נוי\תמונות\315811133_207216078\TinyMemFS\TinyMemFS\obj\Debug\TinyMemFS.pdb

@@ -1,0 +1,32 @@
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe.config
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.pdb
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Form1.resources
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Properties.Resources.resources
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.exe
+C:\Users\Eden\source\repos\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.pdb
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe.config
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.pdb
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Form1.resources
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Properties.Resources.resources
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.exe
+C:\Users\guyno\Downloads\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe.config
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\bin\Debug\ThrashingGenerator.pdb
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Form1.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.Properties.Resources.resources
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.exe
+C:\Users\noyga\OneDrive\שולחן העבודה\סמסטר ד\מבוא למערכות הפעלה\עבודות בית\hw4\ThrashingGeneratorGoodVersion\ThrashingGenerator\ThrashingGenerator\ThrashingGenerator\obj\Debug\ThrashingGenerator.pdb
